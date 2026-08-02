@@ -1,0 +1,6 @@
+{
+  "name": "Medifinds",
+  "description": "Responsive medicine locator and pharmacy management portal",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
